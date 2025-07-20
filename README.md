@@ -14,4 +14,4 @@ This project is an Exploratory Data Analysis (EDA) of a real-world Diwali sales 
 - Sales contribution per category
 ## 📈 Goal:
 To generate business insights to improve sales during the Diwali season.
-[5:08 PM, 7/20/2025] 😇: Exploratory Data Analysis of Diwali Sales dataset using Python, Pandas, Matplotlib, and Seaborn to extract business insights           .
+ Exploratory Data Analysis of Diwali Sales dataset using Python, Pandas, Matplotlib, and Seaborn to extract business insights           .
